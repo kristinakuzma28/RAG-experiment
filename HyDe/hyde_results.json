@@ -1,0 +1,192 @@
+[
+  {
+    "question": "Who directed the film about Ed Wood's life, and what was the name of the actor who played Bela Lugosi in it?",
+    "hypothetical_answer": "The film about Ed Wood's life was directed by Tim Burton, and the actor who played Bela Lugosi in it was Johnny Depp. The movie is titled \"Ed Wood\" and was released in 1994.",
+    "generated_answer": "Tim Burton directed the film about Ed Wood's life, and Johnny Depp played Bela Lugosi in it.",
+    "reference_answer": "The film about Ed Wood's life was directed by Tim Burton, and Martin Landau played Bela Lugosi.",
+    "retrieved_docs": [
+      "Ed Wood (film)\n \nEd Wood is a 1994 American biographical period comedy-drama film directed and produced by Tim\nBurton, and starring Johnny Depp as cult filmmaker Ed Wood. The film concerns the period in Wood's\nlife when he made his best-known films as well as his relationship with actor Bela Lugosi, played by\nMartin Landau. Sarah Jessica Parker, Patricia Arquette, Jeffrey Jones, Lisa Marie, and Bill Murray are\namong the supporting cast.",
+      "Conrad Brooks\n \nConrad Brooks (born Conrad Biedrzycki on January 3, 1931 in Baltimore, Maryland) is an American\nactor. He moved to Hollywood, California in 1948 to pursue a career in acting. He got his start in movies\nappearing in Ed Wood films such as \"Plan 9 from Outer Space\", \"Glen or Glenda\", and \"Jail Bait.\" He\ntook a break from acting during the 1960s and 1970s but due to the ongoing interest in the films of Ed\nWood, he reemerged in the 1980s and has become a prolific actor. He also has since gone on to write,\nproduce and direct several films.",
+      "Deliver Us from Evil (2014 film)\n \nDeliver Us from Evil is a 2014 American supernatural horror film directed by Scott Derrickson and\nproduced by Jerry Bruckheimer. The film is officially based on a 2001 non-fiction book entitled \"Beware\nthe Night\" by Ralph Sarchie and Lisa Collier Cool, and its marketing campaign highlighted that it was\n\"inspired by actual accounts\". The film stars Eric Bana, Édgar Ramírez, Sean Harris, Olivia Munn, and\nJoel McHale in the main roles and was released on July 2, 2014.",
+      "Sinister (film)\n \nSinister is a 2012 supernatural horror film directed by Scott Derrickson and written by Derrickson and\nC. Robert Cargill. It stars Ethan Hawke as fictional true-crime writer Ellison Oswalt who discovers a box\nof home movies in his attic that puts his family in danger.",
+      "Tyler Bates\n \nTyler Bates (born June 5, 1965) is an American musician, music producer, and composer for films,\ntelevision, and video games. Much of his work is in the action and horror film genres, with films like\n\"Dawn of the Dead, 300, Sucker Punch,\" and \"John Wick.\" He has collaborated with directors like Zack\nSnyder, Rob Zombie, Neil Marshall, William Friedkin, Scott Derrickson, and James Gunn. With Gunn,\nhe has scored every one of the director's films; including \"Guardians of the Galaxy\", which became one\nof the highest grossing domestic movies of 2014, and its 2017 sequel. In addition, he is also the lead\nguitarist of the American rock band Marilyn Manson, and produced its albums \"The Pale Emperor\" and\n\"Heaven Upside Down\"."
+    ],
+    "metrics": {
+      "rouge_l": 0.5882352941176471,
+      "bleu": 0.4065220433860868,
+      "f1_score": 0.41166666666666674,
+      "latency": 0.5850601196289062
+    }
+  },
+  {
+    "question": "Which actress starred in both 'Kiss and Tell' and its sequel, and what was the role she played?",
+    "hypothetical_answer": "The actress who starred in both 'Kiss and Tell' and its sequel is Emma Stone. In the movies, she played the role of Samantha, a quirky and lovable protagonist who finds herself in a series of comedic and romantic adventures.",
+    "generated_answer": "Shirley Temple starred in both 'Kiss and Tell' and its sequel, 'A Kiss for Corliss', playing the role of Corliss Archer.",
+    "reference_answer": "Shirley Temple starred in both 'Kiss and Tell' and its sequel 'A Kiss for Corliss' as Corliss Archer.",
+    "retrieved_docs": [
+      "Kiss and Tell (1945 film)\n \nKiss and Tell is a 1945 American comedy film starring then 17-year-old Shirley Temple as Corliss\nArcher. In the film, two teenage girls cause their respective parents much concern when they start to\nbecome interested in boys. The parents' bickering about which girl is the worse influence causes more\nproblems than it solves.",
+      "A Kiss for Corliss\n \nA Kiss for Corliss is a 1949 American comedy film directed by Richard Wallace and written by Howard\nDimsdale. It stars Shirley Temple in her final starring role as well as her final film appearance. It is a\nsequel to the 1945 film \"Kiss and Tell\". \"A Kiss for Corliss\" was retitled \"Almost a Bride\" before release\nand this title appears in the title sequence. The film was released on November 25, 1949, by United\nArtists.",
+      "Meet Corliss Archer\n \nMeet Corliss Archer, a program from radio's Golden Age, ran from January 7, 1943 to September 30,\n1956. Although it was CBS's answer to NBC's popular \"A Date with Judy\", it was also broadcast by\nNBC in 1948 as a summer replacement for \"The Bob Hope Show\". From October 3, 1952 to June 26,\n1953, it aired on ABC, finally returning to CBS. Despite the program's long run, fewer than 24 episodes\nare known to exist.",
+      "Meet Corliss Archer (TV series)\n \nMeet Corliss Archer is an American television sitcom that aired on CBS (July 13, 1951 - August 10,\n1951) and in syndication via the Ziv Company from April to December 1954. The program was an\nadaptation of the radio series of the same name, which was based on a series of short stories by F.\nHugh Herbert.",
+      "Janet Waldo\n \nJanet Marie Waldo (February 4, 1920 – June 12, 2016) was an American radio and voice actress. She\nis best known in animation for voicing Judy Jetson, Nancy in \"Shazzan\", Penelope Pitstop, and Josie in\n\"Josie and the Pussycats\", and on radio as the title character in \"Meet Corliss Archer\"."
+    ],
+    "metrics": {
+      "rouge_l": 0.8717948717948718,
+      "bleu": 0.7254330631437157,
+      "f1_score": 0.6614285714285715,
+      "latency": 0.714979887008667
+    }
+  },
+  {
+    "question": "Who worked as an editor on 'Meet Corliss Archer' and what was his nationality?",
+    "hypothetical_answer": "The editor who worked on 'Meet Corliss Archer' was likely **Edward W. Williams**. He was an American editor known for his work on various television shows during the 1950s.",
+    "generated_answer": "Charles Craft, an English-born American, worked as an editor on 'Meet Corliss Archer'.",
+    "reference_answer": "Charles Craft, an English-born American, worked as an editor on 'Meet Corliss Archer'.",
+    "retrieved_docs": [
+      "Meet Corliss Archer (TV series)\n \nMeet Corliss Archer is an American television sitcom that aired on CBS (July 13, 1951 - August 10,\n1951) and in syndication via the Ziv Company from April to December 1954. The program was an\nadaptation of the radio series of the same name, which was based on a series of short stories by F.\nHugh Herbert.",
+      "Meet Corliss Archer\n \nMeet Corliss Archer, a program from radio's Golden Age, ran from January 7, 1943 to September 30,\n1956. Although it was CBS's answer to NBC's popular \"A Date with Judy\", it was also broadcast by\nNBC in 1948 as a summer replacement for \"The Bob Hope Show\". From October 3, 1952 to June 26,\n1953, it aired on ABC, finally returning to CBS. Despite the program's long run, fewer than 24 episodes\nare known to exist.",
+      "Charles Craft\n \nCharles Craft (May 9, 1902 – September 19, 1968) was an English-born American film and television\neditor. Born in the county of Hampshire in England on May 9, 1902, Craft would enter the film industry\nin Hollywood in 1927. The first film he edited was the Universal Pictures silent film, \"Painting the Town\".\nOver the next 25 years, Craft would edit 90 feature-length films. In the early 1950s he would switch his\nfocus to the small screen, his first show being \"Racket Squad\", from 1951–53, for which he was the\nmain editor, editing 93 of the 98 episodes. He would work on several other series during the 1950s,\nincluding \"Meet Corliss Archer\" (1954), \"Science Fiction Theatre\" (1955–56), and \"Highway Patrol\"\n(1955–57). In the late 1950s and early 1960s he was one of the main editors on \"Sea Hunt\", starring\nLloyd Bridges, editing over half of the episodes. His final film work would be editing \"Flipper's New\nAdventure\" (1964, the sequel to 1963's \"Flipper\". When the film was made into a television series, Craft\nwould begin the editing duties on that show, editing the first 28 episodes before he retired in 1966. Craft\ndied on September 19, 1968 in Los Angeles, California.",
+      "Conrad Brooks\n \nConrad Brooks (born Conrad Biedrzycki on January 3, 1931 in Baltimore, Maryland) is an American\nactor. He moved to Hollywood, California in 1948 to pursue a career in acting. He got his start in movies\nappearing in Ed Wood films such as \"Plan 9 from Outer Space\", \"Glen or Glenda\", and \"Jail Bait.\" He\ntook a break from acting during the 1960s and 1970s but due to the ongoing interest in the films of Ed\nWood, he reemerged in the 1980s and has become a prolific actor. He also has since gone on to write,\nproduce and direct several films.",
+      "Adam Collis\n \nAdam Collis is an American filmmaker and actor. He attended the Duke University from 1986 to 1990\nand the University of California, Los Angeles from 2007 to 2010. He also studied cinema at the\nUniversity of Southern California from 1991 to 1997. Collis first work was the assistant director for the\nScott Derrickson's short \"Love in the Ruins\" (1995). In 1998, he played \"Crankshaft\" in Eric Koyanagi's\n\"Hundred Percent\"."
+    ],
+    "metrics": {
+      "rouge_l": 1.0,
+      "bleu": 1.0,
+      "f1_score": 0.41166666666666674,
+      "latency": 0.5987799167633057
+    }
+  },
+  {
+    "question": "Who directed the film 'Doctor Strange' in 2016, and which actors played the main roles?",
+    "hypothetical_answer": "The film 'Doctor Strange' in 2016 was directed by Scott Derrickson. The main roles were played by Benedict Cumberbatch as Doctor Strange, Tilda Swinton as the Ancient One, Chiwetel Ejiofor as Mordo, and Rachel McAdams as Christine Palmer.",
+    "generated_answer": "Doctor Strange was directed by Scott Derrickson in 2016. The main roles were played by Benedict Cumberbatch, Chiwetel Ejiofor, and Rachel McAdams.",
+    "reference_answer": "The film 'Doctor Strange' in 2016 was directed by Scott Derrickson, and the main roles were played by Benedict Cumberbatch, Chiwetel Ejiofor, and Rachel McAdams.",
+    "retrieved_docs": [
+      "Doctor Strange (2016 film)\n \nDoctor Strange is a 2016 American superhero film based on the Marvel Comics character of the same\nname, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the\nfourteenth film of the Marvel Cinematic Universe (MCU). The film was directed by Scott Derrickson,\nwho wrote it with Jon Spaihts and C. Robert Cargill, and stars Benedict Cumberbatch as Stephen\nStrange, along with Chiwetel Ejiofor, Rachel McAdams, Benedict Wong, Michael Stuhlbarg, Benjamin\nBratt, Scott Adkins, Mads Mikkelsen, and Tilda Swinton. In \"Doctor Strange\", surgeon Strange learns\nthe mystic arts after a career-ending car accident.",
+      "Sinister (film)\n \nSinister is a 2012 supernatural horror film directed by Scott Derrickson and written by Derrickson and\nC. Robert Cargill. It stars Ethan Hawke as fictional true-crime writer Ellison Oswalt who discovers a box\nof home movies in his attic that puts his family in danger.",
+      "Deliver Us from Evil (2014 film)\n \nDeliver Us from Evil is a 2014 American supernatural horror film directed by Scott Derrickson and\nproduced by Jerry Bruckheimer. The film is officially based on a 2001 non-fiction book entitled \"Beware\nthe Night\" by Ralph Sarchie and Lisa Collier Cool, and its marketing campaign highlighted that it was\n\"inspired by actual accounts\". The film stars Eric Bana, Édgar Ramírez, Sean Harris, Olivia Munn, and\nJoel McHale in the main roles and was released on July 2, 2014.",
+      "The Exorcism of Emily Rose\n \nThe Exorcism of Emily Rose is a 2005 American legal drama horror film directed by Scott Derrickson\nand starring Laura Linney and Tom Wilkinson. The film is loosely based on the story of Anneliese\nMichel and follows a self-proclaimed agnostic who acts as defense counsel (Linney) representing a\nparish priest (Wilkinson), accused by the state of negligent homicide after he performed an exorcism.",
+      "Adam Collis\n \nAdam Collis is an American filmmaker and actor. He attended the Duke University from 1986 to 1990\nand the University of California, Los Angeles from 2007 to 2010. He also studied cinema at the\nUniversity of Southern California from 1991 to 1997. Collis first work was the assistant director for the\nScott Derrickson's short \"Love in the Ruins\" (1995). In 1998, he played \"Crankshaft\" in Eric Koyanagi's\n\"Hundred Percent\"."
+    ],
+    "metrics": {
+      "rouge_l": 0.8510638297872342,
+      "bleu": 0.6845777017337252,
+      "f1_score": 0.41166666666666674,
+      "latency": 0.7756030559539795
+    }
+  },
+  {
+    "question": "Which actor appeared in Ed Wood films and what role did he play in 'Plan 9 from Outer Space'?",
+    "hypothetical_answer": "The actor who appeared in Ed Wood films and played a role in 'Plan 9 from Outer Space' is Bela Lugosi. Lugosi portrayed the character of \"Ghoul Man\" in the film. Lugosi was a prominent actor known for his iconic portrayal of Count Dracula in the 1931 film 'Dracula.'",
+    "generated_answer": "Conrad Brooks appeared in Ed Wood films and played a role in 'Plan 9 from Outer Space'.",
+    "reference_answer": "Conrad Brooks appeared in Ed Wood's films and played a role as an actor in 'Plan 9 from Outer Space'.",
+    "retrieved_docs": [
+      "Ed Wood (film)\n \nEd Wood is a 1994 American biographical period comedy-drama film directed and produced by Tim\nBurton, and starring Johnny Depp as cult filmmaker Ed Wood. The film concerns the period in Wood's\nlife when he made his best-known films as well as his relationship with actor Bela Lugosi, played by\nMartin Landau. Sarah Jessica Parker, Patricia Arquette, Jeffrey Jones, Lisa Marie, and Bill Murray are\namong the supporting cast.",
+      "Conrad Brooks\n \nConrad Brooks (born Conrad Biedrzycki on January 3, 1931 in Baltimore, Maryland) is an American\nactor. He moved to Hollywood, California in 1948 to pursue a career in acting. He got his start in movies\nappearing in Ed Wood films such as \"Plan 9 from Outer Space\", \"Glen or Glenda\", and \"Jail Bait.\" He\ntook a break from acting during the 1960s and 1970s but due to the ongoing interest in the films of Ed\nWood, he reemerged in the 1980s and has become a prolific actor. He also has since gone on to write,\nproduce and direct several films.",
+      "Tyler Bates\n \nTyler Bates (born June 5, 1965) is an American musician, music producer, and composer for films,\ntelevision, and video games. Much of his work is in the action and horror film genres, with films like\n\"Dawn of the Dead, 300, Sucker Punch,\" and \"John Wick.\" He has collaborated with directors like Zack\nSnyder, Rob Zombie, Neil Marshall, William Friedkin, Scott Derrickson, and James Gunn. With Gunn,\nhe has scored every one of the director's films; including \"Guardians of the Galaxy\", which became one\nof the highest grossing domestic movies of 2014, and its 2017 sequel. In addition, he is also the lead\nguitarist of the American rock band Marilyn Manson, and produced its albums \"The Pale Emperor\" and\n\"Heaven Upside Down\".",
+      "Deliver Us from Evil (2014 film)\n \nDeliver Us from Evil is a 2014 American supernatural horror film directed by Scott Derrickson and\nproduced by Jerry Bruckheimer. The film is officially based on a 2001 non-fiction book entitled \"Beware\nthe Night\" by Ralph Sarchie and Lisa Collier Cool, and its marketing campaign highlighted that it was\n\"inspired by actual accounts\". The film stars Eric Bana, Édgar Ramírez, Sean Harris, Olivia Munn, and\nJoel McHale in the main roles and was released on July 2, 2014.",
+      "Adam Collis\n \nAdam Collis is an American filmmaker and actor. He attended the Duke University from 1986 to 1990\nand the University of California, Los Angeles from 2007 to 2010. He also studied cinema at the\nUniversity of Southern California from 1991 to 1997. Collis first work was the assistant director for the\nScott Derrickson's short \"Love in the Ruins\" (1995). In 1998, he played \"Crankshaft\" in Eric Koyanagi's\n\"Hundred Percent\"."
+    ],
+    "metrics": {
+      "rouge_l": 0.9189189189189189,
+      "bleu": 0.5955978088638718,
+      "f1_score": 0.41166666666666674,
+      "latency": 2.762134075164795
+    }
+  },
+  {
+    "question": "Who directed 'Hellraiser: Inferno', and was it the first 'Hellraiser' film released straight-to-DVD?",
+    "hypothetical_answer": "'Hellraiser: Inferno' was directed by Scott Derrickson. It was not the first 'Hellraiser' film released straight-to-DVD. The first 'Hellraiser' film to be released straight-to-DVD was 'Hellraiser: Hellworld' in 2005.",
+    "generated_answer": "Hellraiser: Inferno was directed by Scott Derrickson and it was the first 'Hellraiser' film released straight-to-DVD.",
+    "reference_answer": "The director of 'Hellraiser: Inferno' was Scott Derrickson, and it was the first 'Hellraiser' film released straight-to-DVD.",
+    "retrieved_docs": [
+      "Hellraiser: Inferno\n \nHellraiser: Inferno (also known as Hellraiser V: Inferno) is a 2000 American horror film. It is the fifth\ninstallment in the \"Hellraiser\" series and the first \"Hellraiser\" film to go straight-to-DVD. It was directed\nby Scott Derrickson and released on October 3, 2000. The film concerns a corrupt detective who\ndiscovers Lemarchand's box at a crime scene. The film's reviews were mixed.",
+      "Sinister (film)\n \nSinister is a 2012 supernatural horror film directed by Scott Derrickson and written by Derrickson and\nC. Robert Cargill. It stars Ethan Hawke as fictional true-crime writer Ellison Oswalt who discovers a box\nof home movies in his attic that puts his family in danger.",
+      "Deliver Us from Evil (2014 film)\n \nDeliver Us from Evil is a 2014 American supernatural horror film directed by Scott Derrickson and\nproduced by Jerry Bruckheimer. The film is officially based on a 2001 non-fiction book entitled \"Beware\nthe Night\" by Ralph Sarchie and Lisa Collier Cool, and its marketing campaign highlighted that it was\n\"inspired by actual accounts\". The film stars Eric Bana, Édgar Ramírez, Sean Harris, Olivia Munn, and\nJoel McHale in the main roles and was released on July 2, 2014.",
+      "The Exorcism of Emily Rose\n \nThe Exorcism of Emily Rose is a 2005 American legal drama horror film directed by Scott Derrickson\nand starring Laura Linney and Tom Wilkinson. The film is loosely based on the story of Anneliese\nMichel and follows a self-proclaimed agnostic who acts as defense counsel (Linney) representing a\nparish priest (Wilkinson), accused by the state of negligent homicide after he performed an exorcism.",
+      "Adam Collis\n \nAdam Collis is an American filmmaker and actor. He attended the Duke University from 1986 to 1990\nand the University of California, Los Angeles from 2007 to 2010. He also studied cinema at the\nUniversity of Southern California from 1991 to 1997. Collis first work was the assistant director for the\nScott Derrickson's short \"Love in the Ruins\" (1995). In 1998, he played \"Crankshaft\" in Eric Koyanagi's\n\"Hundred Percent\"."
+    ],
+    "metrics": {
+      "rouge_l": 0.8484848484848485,
+      "bleu": 0.6996579200093658,
+      "f1_score": 0.41166666666666674,
+      "latency": 0.6135940551757812
+    }
+  },
+  {
+   "question": "Which actress voiced Judy Jetson and played the title role in the radio program 'Meet Corliss Archer'?",
+    "hypothetical_answer": "The actress who voiced Judy Jetson and played the title role in the radio program 'Meet Corliss Archer' was Janet Waldo. Janet Waldo was a prolific voice actress known for her work in animated series and radio programs.",
+    "generated_answer": "Janet Marie Waldo voiced Judy Jetson and played the title role in the radio program 'Meet Corliss Archer'.",
+    "reference_answer": "Janet Waldo voiced Judy Jetson and played the title role in the radio program 'Meet Corliss Archer'.",
+    "retrieved_docs": [
+      "Janet Waldo\n \nJanet Marie Waldo (February 4, 1920 – June 12, 2016) was an American radio and voice actress. She\nis best known in animation for voicing Judy Jetson, Nancy in \"Shazzan\", Penelope Pitstop, and Josie in\n\"Josie and the Pussycats\", and on radio as the title character in \"Meet Corliss Archer\".",
+      "Meet Corliss Archer\n \nMeet Corliss Archer, a program from radio's Golden Age, ran from January 7, 1943 to September 30,\n1956. Although it was CBS's answer to NBC's popular \"A Date with Judy\", it was also broadcast by\nNBC in 1948 as a summer replacement for \"The Bob Hope Show\". From October 3, 1952 to June 26,\n1953, it aired on ABC, finally returning to CBS. Despite the program's long run, fewer than 24 episodes\nare known to exist.",
+      "Meet Corliss Archer (TV series)\n \nMeet Corliss Archer is an American television sitcom that aired on CBS (July 13, 1951 - August 10,\n1951) and in syndication via the Ziv Company from April to December 1954. The program was an\nadaptation of the radio series of the same name, which was based on a series of short stories by F.\nHugh Herbert.",
+      "Kiss and Tell (1945 film)\n \nKiss and Tell is a 1945 American comedy film starring then 17-year-old Shirley Temple as Corliss\nArcher. In the film, two teenage girls cause their respective parents much concern when they start to\nbecome interested in boys. The parents' bickering about which girl is the worse influence causes more\nproblems than it solves.",
+      "Conrad Brooks\n \nConrad Brooks (born Conrad Biedrzycki on January 3, 1931 in Baltimore, Maryland) is an American\nactor. He moved to Hollywood, California in 1948 to pursue a career in acting. He got his start in movies\nappearing in Ed Wood films such as \"Plan 9 from Outer Space\", \"Glen or Glenda\", and \"Jail Bait.\" He\ntook a break from acting during the 1960s and 1970s but due to the ongoing interest in the films of Ed\nWood, he reemerged in the 1980s and has become a prolific actor. He also has since gone on to write,\nproduce and direct several films."
+    ],
+    "metrics": {
+      "rouge_l": 0.9714285714285714,
+      "bleu": 0.8915993127600096,
+      "f1_score": 0.7008571428571428,
+      "latency": 0.7104060649871826
+    }
+  },
+  {
+    "question": "Who directed 'The Exorcism of Emily Rose', and which actress played the main role of the defense counsel?",
+    "hypothetical_answer": "'The Exorcism of Emily Rose' was directed by Scott Derrickson. The main role of the defense counsel was played by Laura Linney.",
+    "generated_answer": "Scott Derrickson directed 'The Exorcism of Emily Rose', and Laura Linney played the main role of the defense counsel.",
+    "reference_answer": "'The Exorcism of Emily Rose' was directed by Scott Derrickson, and the main role of the defense counsel was played by Laura Linney.",
+    "retrieved_docs": [
+      "The Exorcism of Emily Rose\n \nThe Exorcism of Emily Rose is a 2005 American legal drama horror film directed by Scott Derrickson\nand starring Laura Linney and Tom Wilkinson. The film is loosely based on the story of Anneliese\nMichel and follows a self-proclaimed agnostic who acts as defense counsel (Linney) representing a\nparish priest (Wilkinson), accused by the state of negligent homicide after he performed an exorcism.",
+      "Deliver Us from Evil (2014 film)\n \nDeliver Us from Evil is a 2014 American supernatural horror film directed by Scott Derrickson and\nproduced by Jerry Bruckheimer. The film is officially based on a 2001 non-fiction book entitled \"Beware\nthe Night\" by Ralph Sarchie and Lisa Collier Cool, and its marketing campaign highlighted that it was\n\"inspired by actual accounts\". The film stars Eric Bana, Édgar Ramírez, Sean Harris, Olivia Munn, and\nJoel McHale in the main roles and was released on July 2, 2014.",
+      "Sinister (film)\n \nSinister is a 2012 supernatural horror film directed by Scott Derrickson and written by Derrickson and\nC. Robert Cargill. It stars Ethan Hawke as fictional true-crime writer Ellison Oswalt who discovers a box\nof home movies in his attic that puts his family in danger.",
+      "Hellraiser: Inferno\n \nHellraiser: Inferno (also known as Hellraiser V: Inferno) is a 2000 American horror film. It is the fifth\ninstallment in the \"Hellraiser\" series and the first \"Hellraiser\" film to go straight-to-DVD. It was directed\nby Scott Derrickson and released on October 3, 2000. The film concerns a corrupt detective who\ndiscovers Lemarchand's box at a crime scene. The film's reviews were mixed.",
+      "Ed Wood (film)\n \nEd Wood is a 1994 American biographical period comedy-drama film directed and produced by Tim\nBurton, and starring Johnny Depp as cult filmmaker Ed Wood. The film concerns the period in Wood's\nlife when he made his best-known films as well as his relationship with actor Bela Lugosi, played by\nMartin Landau. Sarah Jessica Parker, Patricia Arquette, Jeffrey Jones, Lisa Marie, and Bill Murray are\namong the supporting cast."
+    ],
+    "metrics": {
+      "rouge_l": 0.6190476190476191,
+      "bleu": 0.4744766571996447,
+      "f1_score": 0.41166666666666674,
+      "latency": 1.022313117980957
+    }
+  },
+  {
+    "question": "Which composer worked on the music for 'John Wick' and collaborated with director Scott Derrickson?",
+    "hypothetical_answer": "The composer who worked on the music for 'John Wick' and collaborated with director Scott Derrickson is Tyler Bates. Bates is known for his work on various film scores, including 'John Wick' and 'Doctor Strange,' which was directed by Scott Derrickson.",
+    "generated_answer": "Tyler Bates worked on the music for 'John Wick' and collaborated with director Scott Derrickson.",
+    "reference_answer": "Tyler Bates worked on the music for 'John Wick' and collaborated with director Scott Derrickson.",
+    "retrieved_docs": [
+      "Tyler Bates\n \nTyler Bates (born June 5, 1965) is an American musician, music producer, and composer for films,\ntelevision, and video games. Much of his work is in the action and horror film genres, with films like\n\"Dawn of the Dead, 300, Sucker Punch,\" and \"John Wick.\" He has collaborated with directors like Zack\nSnyder, Rob Zombie, Neil Marshall, William Friedkin, Scott Derrickson, and James Gunn. With Gunn,\nhe has scored every one of the director's films; including \"Guardians of the Galaxy\", which became one\nof the highest grossing domestic movies of 2014, and its 2017 sequel. In addition, he is also the lead\nguitarist of the American rock band Marilyn Manson, and produced its albums \"The Pale Emperor\" and\n\"Heaven Upside Down\".",
+      "Sinister (film)\n \nSinister is a 2012 supernatural horror film directed by Scott Derrickson and written by Derrickson and\nC. Robert Cargill. It stars Ethan Hawke as fictional true-crime writer Ellison Oswalt who discovers a box\nof home movies in his attic that puts his family in danger.",
+      "Adam Collis\n \nAdam Collis is an American filmmaker and actor. He attended the Duke University from 1986 to 1990\nand the University of California, Los Angeles from 2007 to 2010. He also studied cinema at the\nUniversity of Southern California from 1991 to 1997. Collis first work was the assistant director for the\nScott Derrickson's short \"Love in the Ruins\" (1995). In 1998, he played \"Crankshaft\" in Eric Koyanagi's\n\"Hundred Percent\".",
+      "Doctor Strange (2016 film)\n \nDoctor Strange is a 2016 American superhero film based on the Marvel Comics character of the same\nname, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the\nfourteenth film of the Marvel Cinematic Universe (MCU). The film was directed by Scott Derrickson,\nwho wrote it with Jon Spaihts and C. Robert Cargill, and stars Benedict Cumberbatch as Stephen\nStrange, along with Chiwetel Ejiofor, Rachel McAdams, Benedict Wong, Michael Stuhlbarg, Benjamin\nBratt, Scott Adkins, Mads Mikkelsen, and Tilda Swinton. In \"Doctor Strange\", surgeon Strange learns\nthe mystic arts after a career-ending car accident.",
+      "Deliver Us from Evil (2014 film)\n \nDeliver Us from Evil is a 2014 American supernatural horror film directed by Scott Derrickson and\nproduced by Jerry Bruckheimer. The film is officially based on a 2001 non-fiction book entitled \"Beware\nthe Night\" by Ralph Sarchie and Lisa Collier Cool, and its marketing campaign highlighted that it was\n\"inspired by actual accounts\". The film stars Eric Bana, Édgar Ramírez, Sean Harris, Olivia Munn, and\nJoel McHale in the main roles and was released on July 2, 2014."
+    ],
+    "metrics": {
+      "rouge_l": 1.0,
+      "bleu": 1.0,
+      "f1_score": 0.41166666666666674,
+      "latency": 0.6107797622680664
+    }
+  },
+  {
+    "question": "Which film starring Shirley Temple is a sequel to 'Kiss and Tell', and who was its director?",
+    "hypothetical_answer": "The film starring Shirley Temple that is a sequel to 'Kiss and Tell' is called 'A Kiss for Corliss'. The director of this film was Richard Wallace.",
+    "generated_answer": "A Kiss for Corliss is a sequel to 'Kiss and Tell', and its director was Richard Wallace.",
+    "reference_answer": "The film 'A Kiss for Corliss' is a sequel to 'Kiss and Tell', and its director was Richard Wallace.",
+    "retrieved_docs": [
+      "A Kiss for Corliss\n \nA Kiss for Corliss is a 1949 American comedy film directed by Richard Wallace and written by Howard\nDimsdale. It stars Shirley Temple in her final starring role as well as her final film appearance. It is a\nsequel to the 1945 film \"Kiss and Tell\". \"A Kiss for Corliss\" was retitled \"Almost a Bride\" before release\nand this title appears in the title sequence. The film was released on November 25, 1949, by United\nArtists.",
+      "Kiss and Tell (1945 film)\n \nKiss and Tell is a 1945 American comedy film starring then 17-year-old Shirley Temple as Corliss\nArcher. In the film, two teenage girls cause their respective parents much concern when they start to\nbecome interested in boys. The parents' bickering about which girl is the worse influence causes more\nproblems than it solves.",
+      "Meet Corliss Archer\n \nMeet Corliss Archer, a program from radio's Golden Age, ran from January 7, 1943 to September 30,\n1956. Although it was CBS's answer to NBC's popular \"A Date with Judy\", it was also broadcast by\nNBC in 1948 as a summer replacement for \"The Bob Hope Show\". From October 3, 1952 to June 26,\n1953, it aired on ABC, finally returning to CBS. Despite the program's long run, fewer than 24 episodes\nare known to exist.",
+      "Charles Craft\n \nCharles Craft (May 9, 1902 – September 19, 1968) was an English-born American film and television\neditor. Born in the county of Hampshire in England on May 9, 1902, Craft would enter the film industry\nin Hollywood in 1927. The first film he edited was the Universal Pictures silent film, \"Painting the Town\".\nOver the next 25 years, Craft would edit 90 feature-length films. In the early 1950s he would switch his\nfocus to the small screen, his first show being \"Racket Squad\", from 1951–53, for which he was the\nmain editor, editing 93 of the 98 episodes. He would work on several other series during the 1950s,\nincluding \"Meet Corliss Archer\" (1954), \"Science Fiction Theatre\" (1955–56), and \"Highway Patrol\"\n(1955–57). In the late 1950s and early 1960s he was one of the main editors on \"Sea Hunt\", starring\nLloyd Bridges, editing over half of the episodes. His final film work would be editing \"Flipper's New\nAdventure\" (1964, the sequel to 1963's \"Flipper\". When the film was made into a television series, Craft\nwould begin the editing duties on that show, editing the first 28 episodes before he retired in 1966. Craft\ndied on September 19, 1968 in Los Angeles, California.",
+      "Meet Corliss Archer (TV series)\n \nMeet Corliss Archer is an American television sitcom that aired on CBS (July 13, 1951 - August 10,\n1951) and in syndication via the Ziv Company from April to December 1954. The program was an\nadaptation of the radio series of the same name, which was based on a series of short stories by F.\nHugh Herbert."
+    ],
+    "metrics": {
+      "rouge_l": 0.9444444444444444,
+      "bleu": 0.8890097654027757,
+      "f1_score": 0.6714285714285715,
+      "latency": 0.6024868488311768
+    }
+  }
+]

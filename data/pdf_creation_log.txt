@@ -1,0 +1,24 @@
+Successfully loaded ./hotpot_dev_fullwiki_v1.json
+Found 20 unique documents
+Created PDF: ./hotpotqa_pdfs/Adam Collis.pdf
+Created PDF: ./hotpotqa_pdfs/Ed Wood (film).pdf
+Created PDF: ./hotpotqa_pdfs/Tyler Bates.pdf
+Created PDF: ./hotpotqa_pdfs/Doctor Strange (2016 film).pdf
+Created PDF: ./hotpotqa_pdfs/Hellraiser_ Inferno.pdf
+Created PDF: ./hotpotqa_pdfs/Sinister (film).pdf
+Created PDF: ./hotpotqa_pdfs/Deliver Us from Evil (2014 film).pdf
+Created PDF: ./hotpotqa_pdfs/Woodson, Arkansas.pdf
+Created PDF: ./hotpotqa_pdfs/Conrad Brooks.pdf
+Created PDF: ./hotpotqa_pdfs/The Exorcism of Emily Rose.pdf
+Created PDF: ./hotpotqa_pdfs/A Kiss for Corliss.pdf
+Created PDF: ./hotpotqa_pdfs/Lord High Treasurer.pdf
+Created PDF: ./hotpotqa_pdfs/Meet Corliss Archer (TV series).pdf
+Created PDF: ./hotpotqa_pdfs/Village accountant.pdf
+Created PDF: ./hotpotqa_pdfs/Joseph Kalite.pdf
+Created PDF: ./hotpotqa_pdfs/Charles Craft.pdf
+Created PDF: ./hotpotqa_pdfs/Meet Corliss Archer.pdf
+Created PDF: ./hotpotqa_pdfs/Janet Waldo.pdf
+Created PDF: ./hotpotqa_pdfs/Kiss and Tell (1945 film).pdf
+Created PDF: ./hotpotqa_pdfs/Secretary of State for Constitutional Affairs.pdf
+Mapping saved to ./hotpotqa_pdfs/document_mapping.csv
+Created 20 PDF files in ./hotpotqa_pdfs
